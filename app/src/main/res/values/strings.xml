@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MultiDashboard</string>
+    <string name="calculator">Calculator</string>
+    <string-array name="myDiceList">
+        <item> 1 </item>
+        <item> 2 </item>
+        <item> 3 </item>
+        <item> 4 </item>
+        <item> 5 </item>
+        <item> 6 </item>
+    </string-array>
+
+    <string name="BoldText"><b>RESULT</b></string>
+    <string name="BoldHeading"><b>CALCULATOR</b></string>
+    <string name="Bold_Dice1"><b>Dice 1</b></string>
+    <string name="Bold_Dice2"><b>Dice 2</b></string>
+    <string name="CheckOut"><b><i>Check Out My Profiles</i></b></string>
+    <string name="ResumeText"><b><i>Lets Connect on Instagram</i></b></string>
+    <string name="ResumeText2"><b><i>Lets Connect on LinkedIn</i></b></string>
+    <string name="story"><i>The Basic Idea Is To Develop While Working In The Business Environment And Also
+        to Create A Space For Myself To Stand In The Crowd.<p>
+        With Innovation And Creativity I Work To Become Better Everyday.
+        I am a Website Developer. My sole purpose is to provide you with great websites that fulfills your Professional needs.
+            I also develop existing website .</p></i></string>
+
+    <string name="ResumeText3"><b><i>Lets Connect on Facebook</i></b></string>
+
+</resources>
